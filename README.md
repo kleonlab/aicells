@@ -1,6 +1,6 @@
 # Virtual Cell Modelling Efforts
 
-A public ledger of research and progress in virtual cell modelling. Maintained by **[Sanjukta Bhattacharya]**(https://sanjukta7.github.io/homepage/) 
+A public ledger of research and progress in virtual cell modelling. Maintained by **[Sanjukta Bhattacharya](https://sanjukta7.github.io/homepage/)** 
 
 ## Overview
 
@@ -34,9 +34,9 @@ The field pushed towards "virtual cells" becoming mainstream, with a focus on co
 ### Late 2025 / Early 2026: Future Directions
 The next frontier involves more advanced generative approaches and large-scale community models.
 
-*   **[Latent Diffusion Models - scDLM]**(https://arxiv.org/abs/2511.02986v1): Moving beyond transformers to diffusion-based generation of cell states.
-*   **[STACK]**(https://www.biorxiv.org/content/10.64898/2026.01.09.698608v1.full ): In context learning in virtual cell state modelling. 
-*   **[SEDD-AIVC]**( ): a discrete diffusion modelling approach for gene expression. 
+*   **[Latent Diffusion Models - scDLM](https://arxiv.org/abs/2511.02986v1)**: Moving beyond transformers to diffusion-based generation of cell states.
+*   **[STACK](https://www.biorxiv.org/content/10.64898/2026.01.09.698608v1.full)**: In context learning in virtual cell state modelling. 
+*   **[SEDD-AIVC]( )**: a discrete diffusion modelling approach for gene expression. 
 
 ---
 
