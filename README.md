@@ -6,6 +6,11 @@ A public ledger of research and progress in virtual cell modelling.
 
 Virtual cell modelling has become a major focus in the 21st century. While earlier generations might have viewed this as the pinnacle of scientific achievement, current researchers recognize the complexities and challenges that remain. The field has seen rapid progress, particularly with the application of deep learning to learn and predict cell states.
 
+
+# foundation scale models:
+1. sc Long - https://www.nature.com/articles/s41467-026-69102-y
+2. 
+
 ## Timeline of Progress
 
 ### Early 2022 - 2023: Foundation Models & Transformers
