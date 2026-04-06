@@ -1,4 +1,4 @@
-# Virtual Cell Modelling Efforts
+# amazing-virtual-cell-models
 
 A public ledger of research and progress in virtual cell modelling.
 
