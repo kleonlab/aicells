@@ -1,6 +1,6 @@
 # Virtual Cell Modelling Efforts
 
-A public ledger of research and progress in virtual cell modelling. Maintained by **[Sanjukta Bhattacharya](https://sanjukta7.github.io/homepage/)** 
+A public ledger of research and progress in virtual cell modelling.
 
 ## Overview
 
